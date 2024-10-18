@@ -36,7 +36,7 @@ import GenericUtility.PropertyFileUtility;
 import GenericUtility.WebDriver_Utility;
 
 public class CompaignWithProductTest extends BaseClass{
-
+	//checking poll execution
 	@Test(groups = "smokeTest")
 //	public static void main(String[] args) throws Throwable {
 	public void compaignWithProduct() throws Throwable {
